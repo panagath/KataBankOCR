@@ -10,6 +10,7 @@ assist in reading letters and faxes sent in by branch offices. The machine
 scans the paper documents, and produces a file with a number of entries which
 each look like this:
 
+
   _  _     _  _  _  _  _
 | _| _||_||_ |_   ||_||_|
 ||_  _|  | _||_|  ||_| _|
@@ -32,6 +33,7 @@ lines put in a List<String>.
 You can use the Test class to see how this works.
 
 -------------------------------------------------------------------------------
+Contact
+-------------------------------------------------------------------------------
 Panos
 Contact me at ecepanos@gmail.com
--------------------------------------------------------------------------------
