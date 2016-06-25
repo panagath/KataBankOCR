@@ -11,9 +11,10 @@ scans the paper documents, and produces a file with a number of entries which
 each look like this:
 
 
-  _  _     _  _  _  _  _
-| _| _||_||_ |_   ||_||_|
-||_  _|  | _||_|  ||_| _|
+	  _  _     _  _  _  _  _
+	| _| _||_||_ |_   ||_||_|
+	||_  _|  | _||_|  ||_| _|
+		
 
 Each entry is 4 lines long, and each line has 27 characters. The first 3
 lines of each entry contain an account number written using pipes and
@@ -36,4 +37,5 @@ You can use the Test class to see how this works.
 Contact
 -------------------------------------------------------------------------------
 Panos
+
 Contact me at ecepanos@gmail.com
